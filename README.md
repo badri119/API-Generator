@@ -24,7 +24,7 @@
 - Three Categories to choose from:
   - Quote Generator
   - HTTP Code Game
-  - Entertainment Database using OMDI's API
+  - Entertainment Database using OMDB's API
 - Mobile Responsive
 
 # Future Improvements:
