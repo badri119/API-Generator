@@ -16,7 +16,7 @@
 - Implemented redux for global state management for Entertainment Database
 - Implemented useContext for global state management for Quote Generator
 - Used Axios for API calls
-- Quotes and HTTP data was obtained through a json file and parsed to PostgreSQL and then hosted via ElephantSQL
+- Quotes and HTTP data were obtained through a json file and parsed to PostgreSQL and then hosted via ElephantSQL
 - Implemented Docker for containerizing ensuring consistent environments
 
 # Key Features:
