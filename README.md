@@ -4,6 +4,11 @@
 
 <a href="https://api-generator-frontend.vercel.app/" target="_blank">Link</a>
 
+# Screenshot:
+
+<img width="1440" alt="Screenshot 2024-02-15 at 19 23 32" src="https://github.com/badri119/API-Generator/assets/90651004/c7d74d83-c016-40c5-bc9f-98fe6a46c58c">
+
+
 # Technical Details:
 
 - The Application was built using various tools including React, Redux, Express, ElephantSQL, TailwindCSS and SCSS
